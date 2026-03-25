@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ian Araújo Figueiredo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Estudante de Engenharia Elétrica na UFSJ. Entusiasta em projetos elétricos e automação."
   location         : "São João Del-Rei"
   employer         : "Red Brick University"
   uri              : # URL
