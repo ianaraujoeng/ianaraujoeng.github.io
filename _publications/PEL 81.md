@@ -1,7 +1,7 @@
 ---
 title: "Gestão de Projeto Elétrico Residencial - 289m²"
 collection: publications
-permalink: /publications/projeto-residencial-lideranca
+permalink: /publications/projeto-residencial-81
 date: 2024-03-15
 venue: "EJEL - UFSJ"
 ---
@@ -10,7 +10,7 @@ venue: "EJEL - UFSJ"
 Este projeto representa um marco na minha trajetória, sendo o primeiro em que atuei integralmente na **Gestão e Revisão Técnica**. Com uma área total de **289m²**, a residência foi projetada para atender às necessidades de uma família de três pessoas, priorizando o conforto térmico, luminotécnico e a máxima segurança operacional.
 
 ### 🎯 Atuação como Gestor e Revisor
-Diferente da execução direta, meu papel neste projeto foi garantir a integridade técnica e o cumprimento de prazos da equipe de execução:
+Participei da execução do projeto, mas o meu papel neste projeto foi garantir a integridade técnica e o cumprimento de prazos da equipe de execução:
 * **Direcionamento Técnico:** Definição das premissas de projeto e métodos de dimensionamento.
 * **Correções Rigorosas:** Revisão detalhada de diagramas unifilares, quadros de carga e seletividade de proteção.
 * **Gestão de Equipe:** Coordenação dos cronogramas e alinhamento entre as expectativas do cliente e as viabilidades técnicas.
