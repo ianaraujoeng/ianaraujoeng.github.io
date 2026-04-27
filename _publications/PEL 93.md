@@ -27,16 +27,16 @@ Dada a escala do projeto, minha atuação focou na organização da infraestrutu
 * **Normas da CEMIG:** Critérios para ligação de unidades consumidoras de uso coletivo e cálculo de demanda.
 
 ---
-### 📸 Galeria Técnica: Complexidade e Setorização (PEL 97)
+### 📸 Imagens do Projeto: Detalhamento e Infraestrutura (PEL 97)
 
-![Planta Baixa Pousada](/images/pousada_planta.png)
-*Legenda: Planta baixa de 600m² detalhando a distribuição dos quartos e a localização dos QDCs individuais.*
+![Rede Lógica e Unifilares](/images/Redelogica93.png)
+*Legenda: Projeto de infraestrutura de rede lógica integrado aos diagramas unifilares de distribuição.*
 
-![Diagrama Unifilar Geral](/images/pousada_unifilar.png)
-*Legenda: Diagrama unifilar principal mostrando a seletividade entre o quadro geral e os quadros parciais de cada suíte.*
+![Projeto Elétrico e Quadro de Cargas](/images/Projetoeletrico93.png)
+*Legenda: Detalhamento das pranchas elétricas com foco no balanceamento de fases e dimensionamento dos circuitos terminais.*
 
-![Quadro de Cargas Típico](/images/pousada_quadro.png)
-*Legenda: Detalhamento do quadro de cargas padrão utilizado para as unidades habitacionais.*
+![Planta de Situação](/images/Plantadesituação93.png)
+*Legenda: Planta de situação indicando a implantação da edificação no terreno e o ponto de entrega de energia.*
 
-![Padrão de Entrada Coletivo](/images/pousada_padrao.png)
-*Legenda: Dimensionamento do padrão de entrada para atendimento à demanda total da pousada.*
+![Ramal de Entrada e Medição](/images/Padrãodeentrada93.png)
+*Legenda: Detalhamento do ramal de entrada e caixa de medição, seguindo as normas técnicas para unidades consumidoras coletivas.*
