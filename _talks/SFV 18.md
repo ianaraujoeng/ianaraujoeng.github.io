@@ -2,10 +2,9 @@
 title: "Sistema Fotovoltaico Residencial (SFV 18)"
 collection: talks
 type: "Energia Solar"
-permalink: /talks/projeto-fotovoltaico-sfv18
+permalink: /talks/sfv18
+date: 2024-04-27
 venue: "Projeto de Microgeração"
-date: 2024-03-27
-location: "Minas Gerais, Brasil"
 ---
 
 ### ☀️ Sobre o Projeto
