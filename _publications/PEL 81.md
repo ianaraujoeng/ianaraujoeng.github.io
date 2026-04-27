@@ -27,3 +27,17 @@ A conformidade normativa foi o pilar da revisão, utilizando:
 * **Normas Técnicas da Concessionária:** Especificações para o padrão de entrada e medição.
 
 ---
+
+### 📸 Imagens do Projeto (PEL 81)
+
+![Planta Baixa](/images/Projetoeletrico81.png)
+*Legenda: Detalhamento da planta baixa e distribuição estratégica dos pontos de utilização (tomadas e iluminação).*
+
+![Rede Lógica](/images/Redelogicapel81.png)
+*Legenda: Projeto de infraestrutura de Rede logica.*
+
+![Padrão de Entrada](/images/Padrãodeentradapel81.png)
+*Legenda: Desenho do padrão de entrada do projeto).*
+
+![Caixa de Medição](/images/Caixademediçãopel81.png)
+*Legenda: Desenho da caixa de medição.*
